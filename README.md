@@ -1,6 +1,6 @@
 # 100x Week 2 — Lost Civilization Prompting (SDXL)
 
-In this assignment, we will **recreate 15 images** that tell the story of a lost civilization — from its mysterious beginnings to its untimely demise.  
+In this assignment, we will **recreate 15 images** that tell the story of a lost civilization from its mysterious beginnings to its untimely demise.  
 All images must be generated in a **cohesive visual style**, discovered from the reference image provided (see Lecture 4 for hints).  
 
 ---
