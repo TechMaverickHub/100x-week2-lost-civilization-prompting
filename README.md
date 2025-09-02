@@ -15,7 +15,6 @@ All images must be generated in a **cohesive visual style**, discovered from the
 ---
 
 ## 📂 Repo Layout
-- `prompts/` → text prompts for each timeline moment  
 - `outputs/` → generated images (1024x1024, upscaled)  
 - `pdf/` → final compiled PDF for showcase  
 - `reference/` → given style reference image  
@@ -80,7 +79,6 @@ All images must be generated in a **cohesive visual style**, discovered from the
 ---
 
 ## ✅ Checklist
-- [ ] 15 prompts in `prompts/`  
 - [ ] 15 generated images in `outputs/`  
 - [ ] Compiled PDF in `pdf/`  
 - [ ] Reference image added to `reference/`  
